@@ -1,0 +1,4 @@
+/* Override Bootstrap's default navbar color with a pretty shade of blue */
+.navbar-custom {
+    background-color: #4A90E2;
+}
